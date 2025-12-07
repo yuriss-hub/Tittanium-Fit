@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { ViewState } from './types';
 import { Layout } from './components/Layout';
